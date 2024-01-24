@@ -1,1 +1,1 @@
-# Js-Code-Repo
+# JS-Code-Repo
